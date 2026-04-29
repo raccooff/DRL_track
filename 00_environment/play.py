@@ -1,5 +1,5 @@
 """
-Play Tetris with falling pieces — Game Boy original aesthetic.
+Play Tetris with falling pieces
 
 Usage:
     Human play:   python play.py --mode manual
